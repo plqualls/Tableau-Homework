@@ -11,11 +11,11 @@
 <h2>:clipboard:Items Included</h2>
 <p>The following are items included in this project.
 <ol>
-<li>Data set from 2019 provided by the instructor which can be found under resources.</li>
+<li>Data set from 2019 provided by the instructor.</li>
 <li>2-5 visualizations that demonstrate our findings.</li>
-<li>Tableau Homework Citi Bike Analytics file which can be viewed in Tableau Dashboard or the link provided below.</li>
+<li>Tableau Homework Citi Bike Analytics file which can be viewed in Tableau Dashboard utilizing the link below.</li>
 <h3>:earth_americas:Tableau Link</h3>
 <p>https://public.tableau.com/views/CitiBikeAnalytics_16186089968510/Dashboard1?:language=en&:useGuest=true&:display_count=y&:origin=viz_share_link</p>
-
 </body>
+
 </html>
